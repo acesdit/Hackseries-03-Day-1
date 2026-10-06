@@ -1,0 +1,3 @@
+Good catch. Find the IP that appears most often on ERROR lines in access.log.
+Then request: http://localhost:8000/final?ip=YOUR_IP
+Replace YOUR_IP with the IP you found. Submit the response and your commands.

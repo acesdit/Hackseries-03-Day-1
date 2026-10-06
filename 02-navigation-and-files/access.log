@@ -1,0 +1,10 @@
+192.0.2.10 INFO /home
+192.0.2.11 ERROR /login
+192.0.2.12 INFO /about
+192.0.2.11 ERROR /login
+192.0.2.13 WARN /settings
+192.0.2.10 ERROR /admin
+192.0.2.14 INFO /home
+192.0.2.11 ERROR /login
+192.0.2.15 INFO /help
+192.0.2.10 ERROR /admin

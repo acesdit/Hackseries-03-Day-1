@@ -1,0 +1,1 @@
+Nice find. A plain ls hides names that begin with a dot. Next, compare find (file names) with grep (file contents).

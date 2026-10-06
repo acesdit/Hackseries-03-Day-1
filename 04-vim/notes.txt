@@ -1,0 +1,5 @@
+The first eror is a typo to fix in Insert mode.
+This line is correct and should stay.
+The search command /eror can find this second eror.
+DELETE THIS JUNK LINE
+Save your changes with :wq.

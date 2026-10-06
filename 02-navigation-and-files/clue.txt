@@ -1,0 +1,1 @@
+The first clue is in a hidden file. Try listing all files, including names that begin with a dot.
